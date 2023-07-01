@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+body {
+    background-color: #38AECC;
+}
+
+.log {
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    transform: translate(-50%, -50%);
+}
+
+.log img {
+    width: 500px;
+    height: 300px;
+    display: block;
+}
+
+.logindiv {
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    transform: translate(-50%, -50%);
+}
+
+.logindiv img {
+    width: 400px;
+    height: 200px;
+    display: block;
+}
+
+.innav {
+    position: absolute;
+    left: 50%;
+    top: 70%;
+    transform: translate(-50%, -50%);
+}
+
+.innav button {
+    display: block;
+    width: 300px;
+    height: 50px;
+    margin: 20px;
+    background-color: #0F2532;
+}
+
+.innav a {
+    text-decoration: none;
+    color: whitesmoke;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+}
+
+.loginput {
+    position: absolute;
+    left: 50%;
+    top: 65%;
+    transform: translate(-50%, -50%);
+}
+
+.loginput input {
+    display: block;
+    margin-bottom: 10px;
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+.loginput label {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+.loginput button {
+    display: block;
+    width: 150px;
+    height: 50px;
+    margin: 20px;
+    color: white;
+    background-color: #0F2532;
+    margin: 20px auto 10px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 25px;
+    cursor: pointer;
+    border-radius: 15px;
+}
+
+
+.appfor {
+    background-color: white;
+    border-radius: 20px;
+    width: 1000px;
+    height: auto;
+    position: absolute;
+    top: 5%;
+    left: 10%;
+    padding: 30px;
+}
+
+.input {
+    padding-right: 1px;
+}
+
+.headap {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.hdr {
+    margin-bottom: 5px !important;
+}
+
+h4 {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.edwe {
+    background-color: rgb(79, 79, 79);
+    padding: 10px !important;
+    text-align: center;
+    color: white;
+}
+
+.subbot {
+    cursor: pointer;
+    display: block;
+    width: 300px;
+    height: 50px;
+    margin: 20px auto 10px;
+    background-color: #0F2532;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.login {
+    width: 300px;
+    height: auto;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    padding: 30px;
+
+}

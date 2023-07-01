@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
+
+.tab {
+    overflow: auto;
+    position: relative;
+    left: 10%;
+    width: 1000px;
+    height: 500px;
+}
+
+.tab th {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.fa-right-from-bracket{
+    color:black;
+}
+
+.formtab{
+    position: relative;
+    left:10%;
+    width: 1000px;
+}
